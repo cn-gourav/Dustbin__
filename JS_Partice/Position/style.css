@@ -1,0 +1,17 @@
+.conatiner {
+    height: 100vh;
+}
+
+body {
+    /* max-width: 1000px; */
+    /* margin: 0 auto; */
+}
+.conatiner{
+    width: 100%;
+    height: 100%;
+}
+.img {
+    width: 100px;
+    height: 100px;
+}
+
